@@ -1,0 +1,4 @@
+- 👋 Oii, eu sou o Renan!
+- 👀 Sou graduando em engenharia da computação, e me interesso por tudo relacionado à tecnologia.
+- 🌱 No momento estou me dedicando ao estudo de desenvolvimento de software e análise de dados.
+- 📫 Você pode me encontrar em: moreirarmcm@gmail.com e https://www.linkedin.com/in/moreirarmcm/

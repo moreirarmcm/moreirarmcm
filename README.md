@@ -1,4 +1,4 @@
-![banner](https://github.com/moreirarmcm/moreirarmcm/blob/main/Imagens/img003.jpeg?raw=true)
+![banner](https://github.com/moreirarmcm/moreirarmcm/blob/main/Imagens/img002.jpg?raw=true)
 
 <h1 align="center">Olá, Eu sou o Renan! ✋</h1>
 <h3 align="center">Sou graduando em engenharia da computação e me interesso por tudo relacionado à tecnologia 😁</h3>

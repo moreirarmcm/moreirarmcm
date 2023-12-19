@@ -1,21 +1,19 @@
 ![banner](https://github.com/moreirarmcm/moreirarmcm/blob/main/Imagens/Capa4.png?raw=true)
 
 <h1 align="center">Olá, Eu sou o Renan! ✋</h1>
-<h3 align="center">Sou graduando em engenharia da computação, e me interesso por tudo relacionado à tecnologia 😁</h3>
+<h3 align="center">Engenheiro de computação e analista de dados</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moreirarmcm&label=Profile%20views&color=0e75b6&style=flat" alt="moreirarmcm" /> </p>
 
-- Atualmente estudo desenvolvimento de softwares **em Java e Spring REST**
+- Atualmente estudo desenvolvimento de softwares **em C#**
 
-- No momento me dedico a estudar: **Spring REST**
-
-- Procuro colaborar com **Desenvolvimento de Softwares**
+- Procuro colaborar com **Desenvolvimento de Softwares e Análise de dados**
 
 - Estou aberto a quaisquer dicas e melhorias em meus projetos **(adoro receber críticas construtivas nos projetos!)**
 
 - Todos os meus projetos estão em [https://github.com/moreirarmcm](https://github.com/moreirarmcm)
 
-- Pergunte-me sobre: **Java**
+- Pergunte-me sobre: **Arquitetura de banco de dados**
 
 - Você pode me encontrar em **moreirarmcm@gmail.com e https://www.linkedin.com/in/moreirarmcm/**
 

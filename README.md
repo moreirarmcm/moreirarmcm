@@ -1,4 +1,4 @@
-![banner](https://github.com/moreirarmcm/moreirarmcm/blob/main/Imagens/Capa4.png?raw=true)
+![banner](https://github.com/moreirarmcm/moreirarmcm/blob/main/Imagens/Capa5.png)
 
 <h1 align="center">Olá, Eu sou o Renan! ✋</h1>
 <h3 align="center">Engenheiro de computação e analista de dados</h3>

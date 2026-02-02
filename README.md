@@ -32,6 +32,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moreirarmcm&show_icons=true&theme=dark&locale=en" alt="moreirarmcm" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moreirarmcm&theme=dark" alt="moreirarmcm" /></p>
-
- 
-  ![Snake animation](https://github.com/moreirarmcm/moreirarmcm/blob/output/github-contribution-grid-snake.svg)
